@@ -1,0 +1,16 @@
+{
+  "name": "picovoke",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "pigpio": "",
+    "json-tryparse": "^1.0.5",
+    "mqtt": "^3.0.0"
+  }
+}
